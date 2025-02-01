@@ -1,0 +1,32 @@
+/**
+ * Styles used in FtcBlocksProjects.html, FtcBlocks.html, FtcSounds.html,
+ * FtcOfflineBlocksProjects.html, and FtcOfflineBlocks.html
+ *
+ * Note that for the offline blocks editor, which does not use less, this file
+ * is pre-processed by OfflineBlocksUtil.convertLessToCss.
+ */
+
+
+.top {
+  background-color: #a95414;
+}
+
+.my_projects_td, .my_files_td {
+  background-color: #a44904;
+}
+
+.header_td {
+  color: #bd5505;
+}
+
+.project_tr, .file_tr {
+  background: hsl(26, 96%, 96.5%);
+}
+
+#project_flavor, #project_group, #project_autoTransition {
+  color: #552602;
+}
+
+#javaCodeHeading {
+  background-color: #a44904;
+}
